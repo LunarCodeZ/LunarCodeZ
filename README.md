@@ -3,11 +3,7 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,c,cpp" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,python,c,cpp)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
@@ -32,8 +28,9 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 [![](https://visitcount.itsvg.in/api?id=LunarCodeZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 👥 Social Media
-[![My Social Media](https://skillicons.dev/icons?i=discord,gmail,instagram&perline=1)](https://skillicons.dev)
-Discord
-Gmail
-Instagram
+## 👥 Contact Me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram" />
+  </a>
+</p>
