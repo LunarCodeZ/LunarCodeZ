@@ -2,10 +2,10 @@
 Hello ! I’m a passionate and motivated aspiring programmer with a strong interest in Back-end development.<br><br>Although I’m still at the early stage of my journey, I am deeply committed to building a solid foundation in software engineering. I am particularly drawn to designing systems that are scalable, efficient, and reliable.<br><br>My long-term goal is to become a professional Application Developer, Game Developer, or Back-end Engineer, contributing to impactful software projects and solving real-world problems through clean and maintainable code.<br><br>I'am actively learning and experimenting with various technologies to grow both technically and professionally.
 
 
-# 💻 Languages:
+# 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,c,cpp" />
   </a>
 </p>
 
@@ -31,4 +31,9 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 ---
 [![](https://visitcount.itsvg.in/api?id=LunarCodeZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👥 Social Media
+[![My Social Media](https://skillicons.dev/icons?i=discord,gmail,instagram&perline=1)](https://skillicons.dev)
+Discord
+Gmail
+Instagram
