@@ -5,6 +5,7 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LunarCodeZ?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.vercel.app/api?username=LunarCodeZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LunarCodeZ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarCodeZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
