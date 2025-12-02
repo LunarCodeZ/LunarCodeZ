@@ -2,8 +2,14 @@
 Hello ! I’m a passionate and motivated aspiring programmer with a strong interest in Back-end development.<br><br>Although I’m still at the early stage of my journey, I am deeply committed to building a solid foundation in software engineering. I am particularly drawn to designing systems that are scalable, efficient, and reliable.<br><br>My long-term goal is to become a professional Application Developer, Game Developer, or Back-end Engineer, contributing to impactful software projects and solving real-world problems through clean and maintainable code.<br><br>I'am actively learning and experimenting with various technologies to grow both technically and professionally.
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 💻 Languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LunarCodeZ?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.vercel.app/api?username=LunarCodeZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
