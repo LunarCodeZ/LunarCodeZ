@@ -24,13 +24,12 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LunarCodeZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=LunarCodeZ&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ## 👥 Contact Me
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,gmail,instagram" />
   </a>
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=LunarCodeZ&icon=0&color=0)](https://visitcount.itsvg.in)
