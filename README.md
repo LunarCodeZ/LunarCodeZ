@@ -3,7 +3,9 @@ Hello ! I’m a passionate and motivated aspiring programmer with a strong inter
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,windows)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
